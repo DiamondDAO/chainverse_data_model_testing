@@ -1,0 +1,117 @@
+{
+	"id": "0x07a90f9c8f02785764ef3a07133ba384759311f5",
+	"version": "2.1",
+	"summoner": "0x3062dadfc72e65f97912bd73d6cd4ebe93682ff0",
+	"deleted": false,
+	"summoningTime": 1632833195,
+	"createdAt": 1632833195,
+	"periodDuration": 7200,
+	"votingPeriodLength": 60,
+	"gracePeriodLength": 24,
+	"proposalDeposit": 10000000000000000000,
+	"dilutionBound": 3,
+	"processingReward": 1000000000000000000,
+	"guildBankAddress": null,
+	"guildBankBalanceV1": null,
+	"totalShares": 1,
+	"totalLoot": 0,
+	"depositToken": {
+		"id": "0x07a90f9c8f02785764ef3a07133ba384759311f5-token-0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
+	},
+	"approvedTokens": [
+		{
+			"id": "0x07a90f9c8f02785764ef3a07133ba384759311f5-token-0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
+		}
+	],
+	"tokens": [
+		{
+			"id": "0x07a90f9c8f02785764ef3a07133ba384759311f5-token-0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+			"tokenAddress": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+			"whitelisted": true,
+			"symbol": "WXDAI",
+			"decimals": 18
+		}
+	],
+	"members": [
+		{
+			"id": "0x07a90f9c8f02785764ef3a07133ba384759311f5-member-0x3062dadfc72e65f97912bd73d6cd4ebe93682ff0",
+			"createdAt": 1632833195,
+			"kicked": false,
+			"jailed": null,
+			"shares": 1,
+			"loot": 0
+		}
+	],
+	"proposals": [
+		{
+			"id": "0x07a90f9c8f02785764ef3a07133ba384759311f5-proposal-0",
+			"createdAt": "1633531220",
+			"proposalIndex": null,
+			"proposalId": 0,
+			"moloch": {
+				"id": "0x07a90f9c8f02785764ef3a07133ba384759311f5"
+			},
+			"molochAddress": "0x07a90f9c8f02785764ef3a07133ba384759311f5",
+			"delegateKey": "0x1db5b80967d4126658a009479af64e1bedd8ecf6",
+			"applicant": "0x6c10a5c52388f289436ea1700e3c6a3db855906f",
+			"proposer": "0x1db5b80967d4126658a009479af64e1bedd8ecf6",
+			"sponsor": "0x0000000000000000000000000000000000000000",
+			"processor": "0x0000000000000000000000000000000000000000",
+			"sharesRequested": 0,
+			"lootRequested": 0,
+			"tributeOffered": 0,
+			"tributeTokenSymbol": null,
+			"tributeTokenDecimals": null,
+			"yesVotes": 0,
+			"noVotes": 0,
+			"sponsored": false,
+			"sponsoredAt": null,
+			"processed": false,
+			"processedAt": null,
+			"didPass": false,
+			"cancelled": false,
+			"cancelledAt": null,
+			"aborted": null,
+			"whitelist": false,
+			"guildkick": false,
+			"newMember": false,
+			"trade": false,
+			"details": "{\"title\":\"Minion sends a token\",\"description\":\"\",\"proposalType\":\"Minion Erc20 Token Transfer Proposal\",\"minionType\":\"SAFE MINION V0\"}",
+			"maxTotalSharesAndLootAtYesVote": 0,
+			"yesShares": 0,
+			"noShares": 0,
+			"votingPeriodStarts": 0,
+			"votingPeriodEnds": 0,
+			"gracePeriodEnds": 0,
+			"molochVersion": "2",
+			"isMinion": true,
+			"uberHausMinionExecuted": null,
+			"executed": null,
+			"minionAddress": "0x1db5b80967d4126658a009479af64e1bedd8ecf6",
+			"minion": {
+				"id": "0x07a90f9c8f02785764ef3a07133ba384759311f5-minion-0x1db5b80967d4126658a009479af64e1bedd8ecf6"
+			},
+			"escrow": {
+				"id": null
+			},
+			"votes": [
+
+			],
+			"actions": [
+				{
+					"id": "0x1db5b80967d4126658a009479af64e1bedd8ecf6-minionAction-0-0",
+					"createdAt": null,
+					"minionAddress": null
+				}
+			]
+		}
+	],
+	"rageQuits": [
+
+	],
+	"minions": [
+		{
+			"id": "0x07a90f9c8f02785764ef3a07133ba384759311f5-minion-0x1db5b80967d4126658a009479af64e1bedd8ecf6"
+		}
+	]
+}
